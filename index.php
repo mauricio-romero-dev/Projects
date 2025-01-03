@@ -18,19 +18,19 @@
     font-family: 'Open Sans', sans-serif;
   }
   .wbfs_card{
-    background-image: url('wbfs_card_img.jpg');
+    background-image: url('/wbfs_card_img.jpg');
     background-size: cover;
   }
   .tien_card{
-    background-image: url('tienda_card.jpg'); 
+    background-image: url('/tienda_card.jpg'); 
     background-size: cover;
   }
   .tele_card{
-    background-image: url('agenda.jpg');
+    background-image: url('/agenda.jpg');
     background-size: cover;
   }
   .ecua_card{
-    background-image: url('segundo_grado_card.jpg');
+    background-image: url('/segundo_grado_card.jpg');
     background-size: cover;
   }
   .container {
