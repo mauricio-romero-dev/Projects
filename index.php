@@ -96,7 +96,6 @@
 </style>
 <script>
     function open_l(link) {
-      folder = 'templates/' + link
-      open(folder, '_self')
+      open(link, '_self')
     }
 </script>
